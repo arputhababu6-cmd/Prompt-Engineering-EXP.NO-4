@@ -41,4 +41,43 @@ Everyday Functioning Prompts:
 
   OUTPUT:
 
+
+
+    Comparative Analysis Prompt Definition
+
+A Comparative Analysis Prompt is used to compare two or more items, technologies, products, or concepts based on specific features, advantages, disadvantages, or performance.
+
+Prompt
+
+“Compare and contrast Smartphone A and Smartphone B in terms of battery life, AI camera features, processing performance, storage capacity, display quality, and price. Explain which smartphone is better suited for students who use social media, online classes, photography, and entertainment regularly.”
+
+Another Example
+
+“Compare Android and iOS smartphones based on usability, security, customization, battery optimization, and application support.”
+
+    Experiential Perspective Prompt Definition
+
+An Experiential Perspective Prompt asks the AI to explain a topic from the viewpoint or experience of a particular user or profession.
+
+Prompt
+
+“From the perspective of a college student, explain how a smartphone with a long battery life, AI-powered camera, and fast processor helps in daily activities such as attending online classes, taking notes, communication, photography, and entertainment.”
+
+Another Example
+
+“As a working professional, describe how smartphone AI features improve productivity, communication, and task management during daily office work.”
+
+    Everyday Functioning Prompt Definition
+
+An Everyday Functioning Prompt explains how a technology or concept is used in normal day-to-day life.
+
+Prompt
+
+“Describe how AI-powered smartphone features such as face recognition, camera enhancement, voice assistants, and battery optimization help users in their everyday activities.”
+
+Another Example
+
+“Explain how smartphones are used in daily life for communication, online learning, banking, navigation, shopping, and entertainment.”
   RESULT:
+
+Thus, the prompts for different prompt types such as Comparative Analysis Prompt, Experiential Perspective Prompt, and Everyday Functioning Prompt were created successfully
